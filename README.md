@@ -20,7 +20,7 @@
 2.  使用`python XJZY.py`运行小鸡庄园
 
 ### 一定要看完我！
-方法二需要安装Python和Python中的colorama模块
-运行时会自动创建XJZY.db(sqlite)，此为数据库文件，删除后会自动重建，然后你的存档就跑到回收站里了
+1.  方法二需要安装Python和Python中的colorama模块
+2.  运行时会自动创建XJZY.db(sqlite)，此为数据库文件，删除后会自动重建，然后你的存档就跑到回收站里了
 
 ## 最新版本：2.6
