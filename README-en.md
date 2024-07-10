@@ -1,4 +1,4 @@
-# XJZY
+# Chick Manor 
 
 ## Introduction
 
@@ -11,7 +11,7 @@ Chick Manor is a word game developed and tested by "Xiaobai".
 #### Method 1
 
 1. Find the version folder you need and open it
-2. Double-click .exe file
+2. Double-click XJZY.exe file
 
 #### Method two
 
@@ -21,6 +21,4 @@ Open Command Prompt (cmd)
 
 ### Be sure to see me through!
 1. Method 2: You need to install Python and the colorama module in Python
-2. The runtime will automatically create a XJZY.db (sqlite), which is a database file, which will be automatically rebuilt after deletion, and then your archive will run to the recycle bin
-
-## Latest version: 2.6
+2. The runtime automatically creates a XJZY.db (sqlite), which is a database file that is used to store data. Once deleted, it will be automatically rebuilt, and then your save will be gone......
