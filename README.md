@@ -19,6 +19,7 @@
 1.  使用`cd 小鸡庄园的目录`命令进入小鸡庄园的目录
 2.  使用`python XJZY.py`运行小鸡庄园
 
-##### 注：方法二需要安装Python和Python中的colorama模块
+##### 注：方法二需要安装Python和Python中的colorama模块(有什么用呢？）
+
 
 ## 最新版本：2.6
