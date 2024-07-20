@@ -171,8 +171,8 @@ def XJZY(): #主函数
         Stealth_potions = 0
         How_much_feed_the_chicks_ate_in_total = 10
         Accelerator_card = 0
-        How_much_corn_is_there_in_total = 100
-        How_many_corn_seeds_there_were = 100
+        How_much_corn_is_there_in_total = 0
+        How_many_corn_seeds_there_were = 0
         #新手引导
         if input("欢迎来到小鸡庄园") != "n": #跳过
             input("这里就是我们的庄园。看，那些分别是AA、BB、CC、DD的庄园")
