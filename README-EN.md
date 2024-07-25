@@ -54,7 +54,7 @@ Open Command Prompt (cmd)
 1.Use the cd Chick Manor Directory command to enter Chick Manor's directory
 2.Use python XJZY.py run Chick Manor
 
-###Other matters (be sure to read 1, 2!) 
+### Other matters (be sure to read 1, 2!) 
 1.Method 2 requires the installation of Python and the "colorama" module in Python, if you are just playing games, use method 1
 
 2.The runtime automatically creates a XJZY.db (sqlite), which is a database file that stores data. Once deleted, it will be automatically rebuilt, and your save will be reopened...............
