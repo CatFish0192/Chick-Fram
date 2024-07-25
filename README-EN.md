@@ -64,10 +64,10 @@ Open Command Prompt (cmd)
 4.Do you have the latest demo eligibility? Send us a private message and we'll get you the latest beta version
 
 5.If you are interested, welcome to join the XJZY development team! Here's how to get in touch:
--Wechat:Well, not for now
--QQ：3589326704
--BiliBili: Xiaobai: 白猫猫猫猫猫猫猫儿 Orange cat: 橘猫猫猫猫猫猫猫儿
+- Wechat:Well, not for now
+- QQ：3589326704
+- BiliBili: Xiaobai: 白猫猫猫猫猫猫猫儿 Orange cat: 橘猫猫猫猫猫猫猫儿
 List of Developers:
--Xiaobai: The main developer, responsible for most of the development work
--Orange Cat: Responsible for finding and cracking bugs, full-time customer service
--Old Tang: (The computer is gone, probably flushed down the toilet) Playing in the PUBG somewhere......... We'll see his "1.4" version in a while
+- Xiaobai: The main developer, responsible for most of the development work
+- Orange Cat: Responsible for finding and cracking bugs, full-time customer service
+- Old Tang: (The computer is gone, probably flushed down the toilet) Playing in the PUBG somewhere......... We'll see his "1.4" version in a while
