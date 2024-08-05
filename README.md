@@ -1,41 +1,62 @@
-# 小鸡庄园 
+# 小鸡庄园 Chick Manor
 
-## 介绍
-
+## 介绍 introduce
 小鸡庄园是一款文字游戏，由“小白”开发和测试
 
-## 食用方法
+Chick Manor is a word game developed and tested by "Xiaobai".
+
+## 食用方法 Run the code
 
 ### Windows
 
-#### 方法一
+#### 方法一 Method 1
 
 1. 用你的方式把“小鸡庄园”下载下来（git clone、.zip)
+- Download Chicken Manor your way (git clone, . zip)
 2. 找到你需要的版本文件夹，打开
-3. 双击XJZY.exe文件
+- Find the version folder you need and open it
+3. 双击XJZY.exe
+- run XJZY.exe
 
-#### 方法二（Python 3.6及以上）
+#### 方法二 Method 2 (Python 3.6及以上 need Python 3.6 or later)
 
-1. 用你的方式把“小鸡庄园”下载下来（git clone、.zip）
-2. 在键盘上按下“Win”+“R”，输入cmd来打开命令提示符（cmd）
-3. 用`cd`命令进入小鸡庄园的目录
-4. 用`python <文件名>.py`运行小鸡庄园
+1. 用你的方式把“小鸡庄园”下载下来
+- Download Chicken Manor your way (git clone, . zip）
+
+2. 按下"Win"+"R"键并输入"cmd"来打开命令提示符
+ - Press "Win" + "R" on your keyboard and type "cmd" to open the Command
+
+3. 用‘cd’命令进入小鸡庄园的目录
+- Use the 'cd' command to enter the directory of your Chick Manor
+
+4. 用‘python XJXY.py’
+- Run Chick Manor with 'python XJZY.py'
 
 ### Linux
 
-1. 用你的方式把“小鸡庄园”下载下来（git clone、.zip）
+1. 用你的方式把“小鸡庄园”下载下来
+- Download Chicken Manor your way (git clone, . zip）
+
 2. 打开终端
-3. 用`cd`进入你需要的版本文件夹
-4. 用`python3 <文件名>.py`运行小鸡庄园
+- Open Terminal
+
+3. 用‘cd’进入你需要的版本文件夹
+-  Use the cd to go to the version folder you need
+
+4. 用‘python3 XJZY.py’命令运行小鸡庄园
+- Run Chick Manor with the python3 XJZY.py command
 
 ### MacOS
+1. 用你的方式把“小鸡庄园”下载下来
+- Download Chicken Manor your way (git clone, . zip）
 
-1. 用你的方式把“小鸡庄园”下载下来（git clone、.zip）
 2. 打开终端
-3. 用`cd`进入你需要的版本文件夹
-4. 用`python <文件名>.py`运行小鸡庄园
+-  Open Terminal
 
-### 如果您有意愿，欢迎加入XJZY开发组！，这里是联系方式：
-- 微信：¿
-- QQ：3589326704
-- β站：小白：白猫猫猫猫猫猫猫儿  橘猫：橘猫猫猫猫猫猫猫儿
+3. 用‘cd’进入你需要的版本文件夹
+-  Use the cd to go to the version folder you need
+
+4. 用‘python3 XJZY.py’命令运行小鸡庄园
+- Run Chick Manor with the python3 XJZY.py command
+
+
