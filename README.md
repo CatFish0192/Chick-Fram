@@ -1,4 +1,4 @@
-# 小鸡庄园 Chick Manor
+# 小鸡庄园 XJZY/Chick Manor
 
 ## 介绍 introduce
 小鸡庄园是一款文字游戏，由“小白”开发和测试
@@ -29,7 +29,7 @@ Chick Manor is a word game developed and tested by "Xiaobai".
 3. 用‘cd’命令进入小鸡庄园的目录
 - Use the 'cd' command to enter the directory of your Chick Manor
 
-4. 用‘python XJXY.py’
+4. 用‘python XJXY.py’命令运行小鸡庄园
 - Run Chick Manor with 'python XJZY.py'
 
 ### Linux
@@ -58,5 +58,9 @@ Chick Manor is a word game developed and tested by "Xiaobai".
 
 4. 用‘python3 XJZY.py’命令运行小鸡庄园
 - Run Chick Manor with the python3 XJZY.py command
+
+## 备注
+
+所有使用python运行小鸡庄园的方法皆需要3.6或更高版本的python及colorama运行库，我们一般比较推荐3.8以上的python
 
 
