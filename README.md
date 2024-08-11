@@ -27,7 +27,7 @@ Chick Manor is a word game developed and tested by "Xiaobai".
 3. 用你的Python打开XJZY.py
 - Open the XJZY.py with your Python
 
-#### 方法三 Method 3
+#### 方法三 Method 3（用于管理员，不推荐  For administrators,not recommended）
 
 1. 用你的方式把“小鸡庄园”下载下来
 - Download Chicken Manor your way (git clone, . zip）
