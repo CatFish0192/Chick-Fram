@@ -11,7 +11,7 @@ Chick Manor is a word game developed and tested by "Xiaobai".
 
 #### 方法一 Method 1
 
-1. 用你的方式把“小鸡庄园”下载下来（git clone、.zip)
+1. 用你的方式把“小鸡庄园”下载下来(git clone、.zip)
 - Download Chicken Manor your way (git clone, . zip)
 2. 找到你需要的版本文件夹，打开
 - Find the version folder you need and open it
@@ -20,7 +20,7 @@ Chick Manor is a word game developed and tested by "Xiaobai".
 
 #### 方法二 Method 2
 
-1. 用你的方式把“小鸡庄园”下载下来（git clone、.zip)
+1. 用你的方式把“小鸡庄园”下载下来(git clone、.zip)
 - Download Chicken Manor your way (git clone, . zip)
 2. 找到你需要的版本文件夹，打开
 - Find the version folder you need and open it
@@ -30,7 +30,7 @@ Chick Manor is a word game developed and tested by "Xiaobai".
 #### 方法三 Method 3（用于管理员，不推荐  For administrators,not recommended）
 
 1. 用你的方式把“小鸡庄园”下载下来
-- Download Chicken Manor your way (git clone, . zip）
+- Download Chicken Manor your way (git clone, . zip)
 2. 按下"Win"+"R"键并输入"cmd"来打开命令提示符
  - Press "Win" + "R" on your keyboard and type "cmd" to open the Command
 3. 用‘cd’命令进入小鸡庄园的目录
@@ -41,7 +41,7 @@ Chick Manor is a word game developed and tested by "Xiaobai".
 ### Linux
 
 1. 用你的方式把“小鸡庄园”下载下来
-- Download Chicken Manor your way (git clone, . zip）
+- Download Chicken Manor your way (git clone, . zip)
 2. 打开终端
 - Open Terminal
 3. 用‘cd’进入你需要的版本文件夹
@@ -51,7 +51,7 @@ Chick Manor is a word game developed and tested by "Xiaobai".
 
 ### MacOS
 1. 用你的方式把“小鸡庄园”下载下来
-- Download Chicken Manor your way (git clone, . zip）
+- Download Chicken Manor your way (git clone, . zip)
 2. 打开终端
 -  Open Terminal
 3. 用‘cd’进入你需要的版本文件夹
