@@ -18,7 +18,16 @@ Chick Manor is a word game developed and tested by "Xiaobai".
 3. 双击XJZY.exe
 - run XJZY.exe
 
-#### 方法二 Method 2（用于管理员，不推荐  For administrators,not recommended）
+#### 方法二 Method 2
+
+1. 用你的方式把“小鸡庄园”下载下来(git clone、.zip)
+- Download Chicken Manor your way (git clone, . zip)
+2. 找到你需要的版本文件夹，打开
+- Find the version folder you need and open it
+3. 用你的Python打开XJZY.py
+- Open the XJZY.py with your Python
+
+#### 方法三 Method 3（用于管理员，不推荐  For administrators,not recommended）
 
 1. 用你的方式把“小鸡庄园”下载下来
 - Download Chicken Manor your way (git clone, . zip)
@@ -52,7 +61,7 @@ Chick Manor is a word game developed and tested by "Xiaobai".
 
 ## 备注 remark
 
-所有使用Python运行小鸡庄园的方法皆需要3.6或更高版本的python及colorama运行库，我们一般比较推荐3.8以上的python
+所有使用python运行小鸡庄园的方法皆需要3.6或更高版本的python及colorama运行库，我们一般比较推荐3.8以上的python
 
 All methods of running Chicken Manor with Python require Python version 3.6 or higher and the Colorama runtime, and we generally recommend Python version 3.8 or higher
 
