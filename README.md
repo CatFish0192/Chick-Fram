@@ -53,7 +53,9 @@ Chick Manor is a word game developed and tested by "Xiaobai".
 ## 备注 remark
 
 因为经济问题，我们无法在MacOS上测试，但MacOS与Linux基本一样，理论上可以运行
-所有使用Python运行小鸡庄园的方法皆需要3.6或更高版本的python及colorama运行库，我们一般比较推荐3.8以上的python
 
 We can't test it on MacOS because of economic issues, but MacOS is basically the same as Linux and works in theory
+
+所有使用Python运行小鸡庄园的方法皆需要3.6或更高版本的python及colorama运行库，我们一般比较推荐3.8以上的python
+
 All methods of running Chicken Manor with Python require Python version 3.6 or higher and the Colorama runtime, and we generally recommend Python version 3.8 or higher
