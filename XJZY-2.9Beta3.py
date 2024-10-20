@@ -195,6 +195,7 @@ def logo(status="start"):
     "3":"  |   /_  / /  / /  \  /",
     "4":" /   / /_/ /  / /__ / /",
     "5":"/_/|_\____/  /____//_/"
+    "6":"version :2.9 Beta 3""
     }
 
     endlogo = {
@@ -207,7 +208,7 @@ def logo(status="start"):
     }
     if status == "start": # 开始动画
         startlogo_width = 26 # logo的长度
-        startlogo_height = 5 # logo的宽度
+        startlogo_height = 6 # logo的宽度
     
         line = 1
     
@@ -612,12 +613,13 @@ https://gitcode.com/bxl24563/XJZY
 
     if not o.path.exists(dbpath):
         #新手引导
+        input("注意！你当前游玩的是beta版,可能有奇奇怪怪的bug!)
         name = input("你好，怎么称呼：")
         debug = input(f"你好啊{name},欢迎你来到小鸡镇。")
         input("在这里,每个人都会拥有自己的一只小鸡和一小块庄园,这里就是你的庄园。")
         input("那边分别是AA、BB、CC和DD的庄园,我们可以去那边偷些饲料；当然我们也要小心被偷吃......")
         input("沿这条路去到镇中心的商店,你可以在那里将饲料换成金币,你也可以拿金币买玉米种子,加速卡,甚至是隐身药剂。")
-        input("对了,这些给你(5个金币,10个饲料)好了,我不打扰了,希望我再回来的时候,你能干出自己的一番天地!")
+        input("对了,这些给你(5个金币,10个饲料)好了,我不打扰了,希望我再回来的时候,你能打造出这一片最大的庄园!")
         input("(老人离开了这里······)")
         t.sleep(1)
         clear()
