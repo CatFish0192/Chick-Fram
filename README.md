@@ -15,7 +15,7 @@ Chick Manor is a word game developed and tested by "XJZY Development Group".
 - Download Chicken Manor your way (git clone, . zip)
 2. 找到你需要的版本文件夹，打开
 - Find the version folder you need and open it
-3. 双击XJZY.exe
+3. 双击运行XJZY.exe
 - run XJZY.exe
 
 #### 方法二 Method 2（用于管理员，不推荐  For administrators,not recommended）
@@ -52,9 +52,8 @@ Chick Manor is a word game developed and tested by "XJZY Development Group".
 
 ## 备注 remark
 
-因为经济问题，我们无法在MacOS上测试，但MacOS与Linux基本一样，理论上可以运行
-
-We can't test it on MacOS because of economic issues, but MacOS is basically the same as Linux and works in theory
+对于Mac，我们尚未进行测试，但测试将于一段时间和进行（按照我们的方法理论上可以运行）
+For Mac, we haven't tested it yet, but the test will be going on for some time and (theoretically working with our approach)
 
 所有使用Python运行小鸡庄园的方法皆需要3.6或更高版本的python及colorama运行库（仅2.2版本以上），我们比较推荐3.8以上的python
 
