@@ -1,9 +1,9 @@
 # 小鸡庄园 XJZY/Chick Manor
 
 ## 介绍 introduce
-小鸡庄园是一款文字游戏，由“XJZY开发组”开发和测试
+小鸡庄园是一款文字游戏（以后可能就不是了），由“XJZY开发组”开发和测试
 
-Chick Manor is a word game developed and tested by "XJZY Development Group".
+Chick Manor is a word game developed（Probably not in the future） and tested by "XJZY Development Group".
 
 ## 食用方法 Run the code
 
