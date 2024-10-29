@@ -60,4 +60,5 @@ For Mac, we haven't tested it yet, but the test will be going on for some time a
 All methods of running Chick Manor with Python require python version 3.6 or higher and the colorama runtime (only version 2.2 or above), we recommend python 3.8 or higher
 
 测试版将不再创建数据库文件，你一旦退出游戏所有的数据都会消失！
+
 The beta version will no longer create database files, and all your data will disappear once you quit the game!
