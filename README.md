@@ -1,3 +1,5 @@
+**小鸡庄园图形化项目开始紧张的开发啦，呱唧呱唧**
+
 # 小鸡庄园 XJZY/Chick Manor
 
 ## 介绍 introduce
