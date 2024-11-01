@@ -9,7 +9,7 @@ Chick Manor is a word game developed（Probably not in the future） and tested 
 
 ## 食用方法 Run the code
 
-### Windows
+### Windows :fa-windows: 
 
 #### 方法一 Method 1
 
@@ -31,7 +31,7 @@ Chick Manor is a word game developed（Probably not in the future） and tested 
 4. 用‘python XJXY.py’命令运行小鸡庄园
 - Run Chick Manor with 'python XJZY.py'
 
-### Linux
+### Linux :fa-linux: 
 
 1. 用你的方式把“小鸡庄园”下载下来(git clone、.zip)
 - Download Chicken Manor your way (git clone, . zip)
@@ -42,7 +42,7 @@ Chick Manor is a word game developed（Probably not in the future） and tested 
 4. 用‘python3 XJZY.py’命令运行小鸡庄园
 - Run Chick Manor with the python3 XJZY.py command
 
-### MacOS
+### MacOS :fa-apple: 
 1. 用你的方式把“小鸡庄园”下载下来(git clone、.zip)
 - Download Chicken Manor your way (git clone, . zip)
 2. 打开终端
