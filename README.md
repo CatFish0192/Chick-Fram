@@ -55,12 +55,9 @@ Chick Manor is a word game developed（Probably not in the future） and tested 
 ## 备注 remark
 
 对于Mac，我们尚未进行测试，但测试将于一段时间和进行（按照我们的方法理论上可以运行）
+
 For Mac, we haven't tested it yet, but the test will be going on for some time and (theoretically working with our approach)
 
 所有使用Python运行小鸡庄园的方法皆需要3.6或更高版本的python及colorama运行库（仅2.2版本以上），我们比较推荐3.8以上的python
 
 All methods of running Chick Manor with Python require python version 3.6 or higher and the colorama runtime (only version 2.2 or above), we recommend python 3.8 or higher
-
-测试版将不再创建数据库文件，你一旦退出游戏所有的数据都会消失！
-
-The beta version will no longer create database files, and all your data will disappear once you quit the game!
