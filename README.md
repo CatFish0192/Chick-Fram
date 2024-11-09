@@ -61,3 +61,7 @@ For Mac, we haven't tested it yet, but the test will be going on for some time a
 所有使用Python运行小鸡庄园的方法皆需要3.6或更高版本的python及colorama运行库（仅2.2版本以上），我们比较推荐3.8以上的python
 
 All methods of running Chick Manor with Python require python version 3.6 or higher and the colorama runtime (only version 2.2 or above), we recommend python 3.8 or higher
+
+想知道更多有趣的信息？在[XJZY-Wiki](https://ejkdn.github.io/XJZY-Wiki/ "小鸡庄园的官方Wiki！")上寻找吧！
+
+Want to know more interesting information? Look for it on [XJZY-Wiki](https://ejkdn.github.io/XJZY-Wiki/ "The official Wiki of Chicken Manor!")!
