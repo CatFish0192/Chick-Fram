@@ -58,17 +58,18 @@ Chick Manor is a word game,developed and tested by "XJZY Development Group".
 
 ## 备注 remark
 
-[在2.9Beta7及以上使用pysqlcipher进行数据库加密。](https://.com "tnnd怎么又更新了，破解雪上加霜（悲）")如果“pip install pysqlcipher”无法安装，请使用“pip install pysqlcipher3-1.2.1-py38-none-win_amd64.whl”安装（仅3.8以上的Python）
-Use pysqlcipher for database encryption in version 2.9 Beta 7 and above. If 'pip install pysqlcipher' fails to install, please use 'pip install pysqlcipher3-1.2.1-py38-none-win_amd64.whl' to install (only for Python 3.8 and above).
+[在2.9Beta7及以上使用pysqlcipher进行数据库加密。](https://.com "tnnd怎么又更新了，破解雪上加霜（悲）")如果提示："pip install pysqlcipher"无法安装  ，请使用 "pip install pysqlcipher3-1.2.1-py38-none-win_amd64.whl" 指令安装（仅Python3.8以上）
 
-对于MacOS，我们尚未进行测试，但测试将于一段时间后进行（按照我们的方法理论上是可以运行的）
+Use pysqlcipher for database encryption in version 2.9 Beta 7 and above.If prompted: 'pip install pysqlcipher' cannot be installed, please use the 'pip install pysqlcipher 3-1.2.1-py38-none-winyamad64.whl' command to install (only for Python 3.8 and above)
 
-For MacOS, we haven't tested it yet, but the test will be going on for some time(theoretically working with our approach)
+对于MacOS，我们尚未进行测试（按照我们的方法理论上是可以运行的）
 
-所有使用Python运行小鸡庄园的方法皆需要3.6或更高版本的python及colorama运行库（2.2以上），我们比较推荐3.8以上的python
+For MacOS, we haven't tested it yet(theoretically working with our approach)
+
+所有使用Python运行小鸡庄园的方法皆需要3.6或更高版本的python及colorama运行库（2.2以上），我们比较推荐3.8以上的python（部分测试版需要其他库）
 
 All methods of running Chick Manor with Python require python version 3.6 or higher and the colorama dependency libraries(only version 2.2 or above), we recommend python 3.8 or higher
 
-想知道更多有趣的信息？在[XJZY-Wiki](https://ejkdn.github.io/XJZY-Wiki/ "小鸡庄园的官方Wiki！")上寻找吧！
+想知道更多有趣的信息？在[XJZY-Wiki](https://ejkdn.github.io/XJZY-Wiki/ "小鸡庄园的官方Wiki！（好仁济啊，像是GitHub上的机翻）")上寻找吧！
 
 Want to know more interesting information? Look for it on [XJZY-Wiki](https://ejkdn.github.io/XJZY-Wiki/ "The official Wiki of Chicken Manor!")!
