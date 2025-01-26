@@ -58,11 +58,10 @@ Chick Manor is a word game,developed and tested by "XJZY Development Group".
 
 ## 备注 remark
 
-在2.9Beta7及以上使用pysqlcipher进行数据库加密。如果“pip install pysqlcipher”无法安装，请使用“pip install pysqlcipher3-1.2.1-py38-none-win_amd64.whl”安装（仅3.8以上的Python）
-
+[在2.9Beta7及以上使用pysqlcipher进行数据库加密。](https://.com "tnnd怎么又更新了，破解雪上加霜（悲）")如果“pip install pysqlcipher”无法安装，请使用“pip install pysqlcipher3-1.2.1-py38-none-win_amd64.whl”安装（仅3.8以上的Python）
 Use pysqlcipher for database encryption in version 2.9 Beta 7 and above. If 'pip install pysqlcipher' fails to install, please use 'pip install pysqlcipher3-1.2.1-py38-none-win_amd64.whl' to install (only for Python 3.8 and above).
 
-对于MacOS，我们尚未进行测试，但测试将于一段时间进行（按照我们的方法理论上可以运行）
+对于MacOS，我们尚未进行测试，但测试将于一段时间后进行（按照我们的方法理论上是可以运行的）
 
 For MacOS, we haven't tested it yet, but the test will be going on for some time(theoretically working with our approach)
 
