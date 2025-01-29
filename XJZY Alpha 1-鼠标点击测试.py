@@ -1,16 +1,5 @@
 # -*- coding: utf-8 -*-
 from pynput import mouse, keyboard
-import os
-import random as r
-import time as t
-import sqlite3
-from colorama import init, Fore
-
-# 初始化颜色模块
-init()
-
-VERSION = "2.9Beta6"  # ←当前版本
-# ... 其他变量和函数定义 ...
 
 # 定义鼠标点击事件的回调函数
 def on_click(x, y, button, pressed):
@@ -46,19 +35,3 @@ def handle_game_click(button, x, y):
 def start_mouse_listener():
     with mouse.Listener(on_click=on_click) as listener:
         listener.join()
-
-# 主函数
-def XJZY():
-    # 游戏初始化代码...
-    
-    # 启动鼠标监听器
-    start_mouse_listener()
-
-    # 游戏主循环
-    while True:
-        # 游戏逻辑代码...
-        pass
-
-# 程序入口点
-if __name__ == "__main__":
-    XJZY()  # 调用主函数
