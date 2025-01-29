@@ -70,6 +70,6 @@ For MacOS, we haven't tested it yet(theoretically working with our approach)
 
 All methods of running Chick Manor with Python require python version 3.6 or higher and the colorama dependency libraries(only version 2.2 or above), we recommend python 3.8 or higher
 
-想知道更多有趣的信息？在[XJZY-Wiki](https://ejkdn.github.io/XJZY-Wiki/ "小鸡庄园的官方Wiki！（好仁济啊，像是GitHub上的机翻）")上寻找吧！
+因为域名问题，Wiki暂时无法访问-_-
 
-Want to know more interesting information? Look for it on [XJZY-Wiki](https://ejkdn.github.io/XJZY-Wiki/ "The official Wiki of Chicken Manor!")!
+Due to domain name issues, the Wiki is temporarily unavailable-_-
