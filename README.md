@@ -1,3 +1,6 @@
+#### 公告栏
+最新的Beta7因数据库加密版本兼容问题只能在Python3.8中运行QAQ
+
 # 小鸡庄园 XJZY/Chick Manor
 
 ## 介绍 introduce
