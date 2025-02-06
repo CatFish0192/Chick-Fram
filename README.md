@@ -1,6 +1,3 @@
-#### 公告栏
-最新的Beta7因数据库加密版本兼容问题只能在Python3.8中运行QAQ
-
 # 小鸡庄园 XJZY/Chick Manor
 
 ## 介绍 introduce
@@ -61,7 +58,7 @@ Chick Manor is a word game,developed and tested by "XJZY Development Group".
 
 ## 备注 remark
 
-[在2.9Beta7及以上使用pysqlcipher进行数据库加密。](https://.com "破解雪上加霜（悲）")如果提示："pip install pysqlcipher"无法安装  ，请使用 "pip install pysqlcipher3-1.2.1-py38-none-win_amd64.whl" 指令安装（仅Python3.8以上）
+[在2.9Beta7使用pysqlcipher进行数据库加密。](https://.com "破解雪上加霜（悲）")如果提示："pip install pysqlcipher"无法安装  ，请使用 "pip install pysqlcipher3-1.2.1-py38-none-win_amd64.whl" 指令安装（仅Python3.8）
 
 Use pysqlcipher for database encryption in version 2.9 Beta 7 and above.If prompted: 'pip install pysqlcipher' cannot be installed, please use the 'pip install pysqlcipher 3-1.2.1-py38-none-winyamad64.whl' command to install (only for Python 3.8 and above)
 
