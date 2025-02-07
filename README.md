@@ -4,6 +4,11 @@
 小鸡庄园是一款文字游戏，由“XJZY开发组”开发和测试
 
 Chick Manor is a word game,developed and tested by "XJZY Development Group".
+
+[ **官网** ](https://xjzy2.github.io)，[ **Wiki** ](https://xjzy-wiki.github.io)
+
+[ **official website** ](https://xjzy2.github.io)，[ **Wiki** ](https://xjzy-wiki.github.io)
+
 ![2.8运行截图](https://foruda.gitee.com/images/1726908402334015895/ba1c65a3_13520532.png)
 ## 食用方法 Run the code
 
@@ -69,7 +74,3 @@ For MacOS, we haven't tested it yet(theoretically working with our approach)
 所有使用Python运行小鸡庄园的方法皆需要3.6或更高版本的python及colorama运行库（2.2以上），我们比较推荐3.8以上的python（部分测试版需要其他库）
 
 All methods of running Chick Manor with Python require python version 3.6 or higher and the colorama dependency libraries(only version 2.2 or above), we recommend python 3.8 or higher
-
-因为域名问题，Wiki暂时无法访问-_-
-
-Due to domain name issues, the Wiki is temporarily unavailable-_-
