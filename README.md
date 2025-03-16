@@ -1,9 +1,9 @@
-# 小鸡庄园 XJZY/Chick Manor
+# 小鸡庄园 XJZY/Chick Farm
 
 ## 介绍 introduce
 小鸡庄园是一款文字游戏，由“XJZY开发组”开发和测试
 
-Chick Manor is a word game,developed and tested by "XJZY Development Group".
+Chick Farm is a word game,developed and tested by "XJZY Development Group".
 
 [ **官网** ](https://xjzy2.github.io)，[ **Wiki** ](https://xjzy-wiki.github.io)
 
@@ -17,7 +17,7 @@ Chick Manor is a word game,developed and tested by "XJZY Development Group".
 #### 方法一 Method 1
 
 1. 用你的方式把“小鸡庄园”下载下来(git clone、.zip)
-- Download "Chicken Manor" your way (git clone, . zip)
+- Download "Chicken Farm" your way (git clone, . zip)
 2. 找到你需要的版本文件夹，打开
 - Find the version folder you need and open it
 3. 双击运行XJZY.exe
@@ -26,20 +26,20 @@ Chick Manor is a word game,developed and tested by "XJZY Development Group".
 #### 方法二 Method 2
 
 1. 用你的方式把“小鸡庄园”下载下来(git clone、.zip)
-- Download "Chicken Manor" your way (git clone, . zip)
+- Download "Chicken Farm" your way (git clone, . zip)
 2. 按下"Win"+"R"键并输入"cmd"来打开命令提示符
 - Press "Win" + "R" on your keyboard and type "cmd" to open the Command
 3. 用‘cd’命令进入小鸡庄园的目录
-- Use the "cd" command to enter the directory of your Chick Manor
+- Use the "cd" command to enter the directory of your Chick Farm
 4. 用pip install -r requirements.txt、pip install pysqlcipher安装依赖
 - Use pip install -r requirements.txt and pip install pysqlcipher to install dependencies
 5. 用‘python XJXY.py’命令运行小鸡庄园
-- Run "Chick Manor" with 'python XJZY.py'
+- Run "Chick Farm" with 'python XJZY.py'
 
 ### Linux :fa-linux: 
 
 1. 用你的方式把“小鸡庄园”下载下来(git clone、.zip)
-- Download "Chicken Manor" your way (git clone, . zip)
+- Download "Chicken Farm" your way (git clone, . zip)
 2. 打开终端
 - Open Terminal
 3. 用‘cd’进入你需要的版本文件夹
@@ -47,11 +47,11 @@ Chick Manor is a word game,developed and tested by "XJZY Development Group".
 4. 用pip3 install -r requirements.txt、pip3 install pysqlcipher安装依赖
 - Use pip3 install -r requirements.txt and pip3 install pysqlcipher to install dependencies
 5. 用‘python3 XJZY.py’命令运行小鸡庄园
-- Run "Chick Manor" with the python3 XJZY.py command
+- Run "Chick Farm" with the python3 XJZY.py command
 
 ### MacOS :fa-apple: 
 1. 用你的方式把“小鸡庄园”下载下来(git clone、.zip)
-- Download "Chicken Manor" your way (git clone, . zip)
+- Download "Chicken Farm" your way (git clone, . zip)
 2. 打开终端
 -  Open Terminal
 3. 用‘cd’进入你需要的版本文件夹
@@ -59,7 +59,7 @@ Chick Manor is a word game,developed and tested by "XJZY Development Group".
 4. 用pip install -r requirements.txt、pip install pysqlcipher安装依赖
 - Use pip install -r requirements.txt and pip install pysqlcipher to install dependencies
 5. 用‘python3 XJZY.py’命令运行小鸡庄园
-- Run "Chick Manor" with the python3 XJZY.py command
+- Run "Chick Farm" with the python3 XJZY.py command
 
 ## 备注 remark
 
