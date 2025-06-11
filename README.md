@@ -1,4 +1,4 @@
-# 小鸡庄园 XJZY/Chick Farm
+# [暂时停更/开源]小鸡庄园 XJZY/Chick Farm
 
 ## 介绍 introduce
 小鸡庄园是一款文字游戏，由“XJZY开发组”开发和测试
