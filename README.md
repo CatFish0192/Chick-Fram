@@ -1,7 +1,7 @@
-# [持续更新中/开源]小鸡庄园 XJZY/Chick Farm
+# [活跃 Project active/开源 Open Source]小鸡庄园 XJZY/Chick Farm
 #### 当前开发进度：XJZY 2.9 Beta10 
 已完成的功能有：成就树，音乐模块，数据保存V4；未完成：鼠标点击操作
-
+## Attention! The majority of the Easter eggs and some information are in Chinese. Please prepare a translator.
 ## 介绍 introduce
 小鸡庄园是一款文字游戏，由“XJZY开发组”开发和测试
 
@@ -14,7 +14,7 @@ Chick Farm is a word game,developed and tested by "XJZY Development Group".
 ![2.8运行截图](https://foruda.gitee.com/images/1726908402334015895/ba1c65a3_13520532.png)
 ## 食用方法 Run the code
 
-### Windows :fa-windows: 
+### Windows : 
 
 #### 方法一 Method 1
 
@@ -38,7 +38,7 @@ Chick Farm is a word game,developed and tested by "XJZY Development Group".
 5. 用‘python XJXY.py’命令运行小鸡庄园
 - Run "Chick Farm" with 'python XJZY.py'
 
-### Linux :fa-linux: 
+### Linux :
 
 1. 用你的方式把“小鸡庄园”下载下来(git clone、.zip)
 - Download "Chicken Farm" your way (git clone, . zip)
@@ -51,7 +51,7 @@ Chick Farm is a word game,developed and tested by "XJZY Development Group".
 5. 用‘python3 XJZY.py’命令运行小鸡庄园
 - Run "Chick Farm" with the python3 XJZY.py command
 
-### MacOS :fa-apple: 
+### MacOS :
 1. 用你的方式把“小鸡庄园”下载下来(git clone、.zip)
 - Download "Chicken Farm" your way (git clone, . zip)
 2. 打开终端
