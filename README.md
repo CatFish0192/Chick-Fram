@@ -2,7 +2,7 @@
 #### 当前开发进度：XJZY 2.9 Beta10 
 #### Current development progress: Version 2.9 Beta10
 已完成的功能：成就树，音乐系统，数据保存4.0；未完成：鼠标点击操作
-## Note! Most of the easter eggs and some of the information are in Chinese, please bring your own translator
+## NOTE! Some information and All WIKI are in CHINESE！, please bring your own translator！
 ## 介绍 introduce
 小鸡庄园是一款文字游戏，由“XJZY开发组”开发和测试
 
