@@ -79,3 +79,4 @@ For MacOS, we haven't tested it yet(theoretically working with our approach)
 All methods of running Chick Manor with Python require python version 3.6 or higher and the colorama dependency libraries(only version 2.2 or above), we recommend python 3.8 or higher
 
 更多事项请阅读Wiki
+For more information, please read the wiki
