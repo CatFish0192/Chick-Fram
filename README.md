@@ -66,7 +66,7 @@ Chick Farm is a word game,developed and tested by "XJZY Development Team".
 
 在2.9Beta7使用pysqlcipher进行数据库加密。如果提示："pip install pysqlcipher"无法安装  ，请使用 "pip install pysqlcipher3-1.2.1-py38-none-win_amd64.whl" 指令安装（仅Python3.8）
 
-Use pysqlcipher for database encryption in version 2.9 Beta 7 and above.If prompted: 'pip install pysqlcipher' cannot be installed, please use the 'pip install pysqlcipher 3-1.2.1-py38-none-winyamad64.whl' command to install (only for Python 3.8 and above)
+Use pysqlcipher for database encryption in version 2.9 Beta 7.If prompted: 'pip install pysqlcipher' cannot be installed, please use the 'pip install pysqlcipher 3-1.2.1-py38-none-winyamad64.whl' command to install (only for Python 3.8 and above)
 
 对于MacOS用户，我们尚未进行测试（按照给出的方法理论上是可以运行的）
 
