@@ -1,4 +1,4 @@
-# [Project active/Open Source]小鸡庄园 XJZY/Chick Farm
+# [Open Source]小鸡庄园 XJZY/Chick Farm
 #### 当前开发进度：XJZY 2.9 Beta10 
 #### Current development progress: Version 2.9 Beta10
 已完成的功能：成就树，音乐系统，数据保存4.0；未完成：鼠标点击操作
